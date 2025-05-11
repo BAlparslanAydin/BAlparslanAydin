@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/urlsa=i&url=https%3A%2F%2Fwww.pixelturk.net%2Fyazilimgelistirme&psig=AOvVaw22aHAvkFlbvEZStyLue7eO&ust=1747059285173000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNi79p_Nm40DFQAAAAAdAAAAABAK)
+[![MasterHead](https://www.pixelturk.net/assets/images/media/yazilim-gelistirme.jpg)
 <h1 align="center">Hi 👋, I'm Berkay Alparslan AYDIN</h1>
 <h3 align="center">I am a computer engineering student from Türkiye.</h3>
 
