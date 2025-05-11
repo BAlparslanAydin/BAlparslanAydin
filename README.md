@@ -26,4 +26,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balparslanaydin&" alt="balparslanaydin" /></p>
 
 
-![snake gif](https://github.com/BAlparslanAydin/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/BAlparslanAydin/BAlparslanAydin/blob/output/github-contribution-grid-snake.gif)
